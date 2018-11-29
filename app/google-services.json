@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932494990254",
+    "firebase_url": "https://piano1-71e7f.firebaseio.com",
+    "project_id": "piano1-71e7f",
+    "storage_bucket": "piano1-71e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932494990254:android:f09be4ecc6886386",
+        "android_client_info": {
+          "package_name": "com.example.thanh.piano1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932494990254-pmgc7e1ke5t7isaqub4slvj6orutbjff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thanh.piano1",
+            "certificate_hash": "6cfb8467fad117630f9b836c7e8a43ff58327933"
+          }
+        },
+        {
+          "client_id": "932494990254-pq4nbtrjpcg4l9qn55dankvqv8niujl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmxB35QeKcluqs6y7TIherTGRfo_etvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932494990254-pq4nbtrjpcg4l9qn55dankvqv8niujl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
